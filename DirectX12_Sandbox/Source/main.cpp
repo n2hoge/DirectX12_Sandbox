@@ -78,4 +78,5 @@ int WINAPI WinMain(HINSTAJCE, HINSTANCE, LPSTR, int)
 
 	getchar();
 	return 0;
+
 }
